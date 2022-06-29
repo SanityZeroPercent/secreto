@@ -1,0 +1,29 @@
+{
+  "name": "clay-secreto-site",
+  "version": "0.1.0",
+  "description": "My Personal Secret Message Site",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "framer-motion": "latest",
+    "inter-ui": "latest",
+    "mongoose": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
